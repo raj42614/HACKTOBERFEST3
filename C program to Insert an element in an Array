@@ -1,16 +1,18 @@
 
 
 #include <stdio.h>
-
+#include <stdio.h>
 int main()
 {
 	int arr[100] = { 0 };
 	int i, x, pos, n = 10;
-
+int arr[100] = { 0 };
+	int i, x, pos, n = 10;
 	// initial array of size 10
 	for (i = 0; i < 10; i++)
 		arr[i] = i + 1;
-for (i = 0; i < 10; i++)
+ 10; i++)
+
 		arr[i] = i + 1;
 
 	// print the original array
